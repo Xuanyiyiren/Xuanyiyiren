@@ -1,1 +1,1 @@
-I am now an undergraduate student major in Physics. My research interests involve high energy physics theory(hep-th) and high energy phenomenology(hep-ph). I am also interest in many other fields. You can learn more about me on [my personal website](https://xuanyiyiren.github.io/).
+I am now an undergraduate student major in Nuclear Physics. My research interests involve high energy physics theory(hep-th) and high energy phenomenology(hep-ph). I am also interest in many other fields. You can learn more about me on [my personal website](https://xuanyiyiren.github.io/).

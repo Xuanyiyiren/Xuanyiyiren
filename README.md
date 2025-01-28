@@ -2,4 +2,9 @@ I was an undergraduate student major in nuclear science, and I started programmi
 
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->

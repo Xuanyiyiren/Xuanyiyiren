@@ -4,7 +4,10 @@ I was an undergraduate student major in nuclear science, and I started programmi
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML   20 mins         █████████████░░░░░░░░░░░░   51.35 %
+JSON   17 mins         ███████████░░░░░░░░░░░░░░   44.09 %
+C      1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+INI    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->

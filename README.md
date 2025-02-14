@@ -8,11 +8,11 @@ I was an undergraduate student major in nuclear science, and I started programmi
 <!--START_SECTION:waka-->
 
 ```txt
-C          4 hrs 15 mins   ███████████▓░░░░░░░░░░░░░   46.35 %
-Makefile   3 hrs 20 mins   █████████░░░░░░░░░░░░░░░░   36.34 %
-Markdown   32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-C++        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-HTML       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+C          7 hrs           ████████████▒░░░░░░░░░░░░   49.68 %
+Makefile   3 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   23.55 %
+Markdown   2 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
+C++        38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Bash       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
 
 <!--END_SECTION:waka-->

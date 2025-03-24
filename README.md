@@ -8,11 +8,11 @@ I was an undergraduate student major in nuclear science, and I started programmi
 <!--START_SECTION:waka-->
 
 ```txt
-Python        32 hrs 17 mins  █████████████████████▓░░░   86.35 %
-TeX           3 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-Text          36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-YAML          26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Git Config    23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Python        29 hrs 22 mins  ███████████████████████▒░   93.25 %
+TeX           37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Text          36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+YAML          26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Other         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->

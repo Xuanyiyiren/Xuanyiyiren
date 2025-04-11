@@ -11,11 +11,11 @@ During my junior year, I secured the recommendation-based postgraduate admission
 <!--START_SECTION:waka-->
 
 ```txt
-TeX           20 hrs 31 mins  ████████████████▒░░░░░░░░   65.67 %
-Python        10 hrs 22 mins  ████████▒░░░░░░░░░░░░░░░░   33.22 %
-JSON          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Text          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Markdown      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+TeX        27 hrs 18 mins  ███████████████████░░░░░░   76.02 %
+Python     6 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+C++        1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+YAML       40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+JSON       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->

@@ -11,8 +11,9 @@ During my junior year, I secured the recommendation-based postgraduate admission
 <!--START_SECTION:waka-->
 
 ```txt
-Python   7 mins          █████████████████▓░░░░░░░   71.01 %
-TOML     3 mins          ███████▒░░░░░░░░░░░░░░░░░   28.99 %
+TeX      7 mins          █████████████▓░░░░░░░░░░░   54.63 %
+TOML     3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.95 %
+Python   2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.41 %
 ```
 
 <!--END_SECTION:waka-->

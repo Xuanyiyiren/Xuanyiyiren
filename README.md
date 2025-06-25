@@ -11,9 +11,7 @@ During my junior year, I secured the recommendation-based postgraduate admission
 <!--START_SECTION:waka-->
 
 ```txt
-C#                                 7 mins          ███████████████▓░░░░░░░░░   63.30 %
-JSON                               4 mins          █████████░░░░░░░░░░░░░░░░   35.80 %
-Microsoft Visual Studio Solution   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

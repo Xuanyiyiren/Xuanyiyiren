@@ -11,7 +11,7 @@ During my junior year, I secured the recommendation-based postgraduate admission
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Cuda   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

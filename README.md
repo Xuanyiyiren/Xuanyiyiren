@@ -11,11 +11,11 @@ During my junior year, I secured the recommendation-based postgraduate admission
 <!--START_SECTION:waka-->
 
 ```txt
-Cuda          4 hrs 37 mins   ██████████████████████▓░░   90.64 %
-C             21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-C++           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Cuda          4 hrs 44 mins   ██████████████████████░░░   87.36 %
+C             21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+JSON          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+C++           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->

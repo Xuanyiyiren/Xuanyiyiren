@@ -11,11 +11,11 @@ During my junior year, I secured the recommendation-based postgraduate admission
 <!--START_SECTION:waka-->
 
 ```txt
-Cuda         6 hrs 33 mins   █████████████░░░░░░░░░░░░   52.42 %
-CMake        1 hr 59 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
-Python       1 hr 54 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
-C            42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-C++          29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Cuda         11 hrs 49 mins  ████████████████░░░░░░░░░   64.42 %
+Python       2 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
+CMake        2 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+C            43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+C++          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
 ```
 
 <!--END_SECTION:waka-->

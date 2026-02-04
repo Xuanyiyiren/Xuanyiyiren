@@ -9,10 +9,7 @@ Previously, I completed my undergraduate studies in Nuclear Technology and Nucle
 <!--START_SECTION:waka-->
 
 ```txt
-C++        1 hr 13 mins    ████████████████▒░░░░░░░░   65.37 %
-YAML       25 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
-CMake      7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Markdown   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

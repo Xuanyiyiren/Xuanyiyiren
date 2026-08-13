@@ -9,11 +9,8 @@ Previously, I completed my undergraduate studies in Nuclear Technology and Nucle
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          1 hr 30 mins          ██████████░░░░░░░░░░░░░░░   40.64 %
-Other             1 hr 1 min            ███████░░░░░░░░░░░░░░░░░░   27.82 %
-Java              40 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
-Java Properties   16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-Python            8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Other      14 mins               ███████████████████░░░░░░   76.32 %
+Markdown   4 mins                ██████░░░░░░░░░░░░░░░░░░░   23.68 %
 ```
 
 <!--END_SECTION:waka-->

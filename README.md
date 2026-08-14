@@ -9,8 +9,7 @@ Previously, I completed my undergraduate studies in Nuclear Technology and Nucle
 <!--START_SECTION:waka-->
 
 ```txt
-Other      14 mins               ███████████████████░░░░░░   76.32 %
-Markdown   4 mins                ██████░░░░░░░░░░░░░░░░░░░   23.68 %
+Other   14 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

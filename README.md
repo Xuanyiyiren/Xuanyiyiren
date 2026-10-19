@@ -9,11 +9,11 @@ Previously, I completed my undergraduate studies in Nuclear Technology and Nucle
 <!--START_SECTION:waka-->
 
 ```txt
-Python         12 hrs 18 mins        ████████▒░░░░░░░░░░░░░░░░   33.01 %
-C++            8 hrs 31 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.88 %
-Markdown       6 hrs 47 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.24 %
-TeX            3 hrs 59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
-Other          1 hr 33 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Python         8 hrs 52 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.08 %
+Markdown       7 hrs 58 mins         ██████░░░░░░░░░░░░░░░░░░░   23.44 %
+C++            7 hrs 39 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.50 %
+TeX            3 hrs 57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+Other          1 hr 24 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
 ```
 
 <!--END_SECTION:waka-->
